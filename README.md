@@ -1,3 +1,14 @@
+---
+title: Text Summarization App
+emoji: 🔥
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.19.2"
+app_file: app.py
+pinned: false
+---
+
 ## Sentiment Analysis Gradio Application
 
 This project is a 3-class sentiment analysis tool built using Hugging Face Transformers and Gradio.
